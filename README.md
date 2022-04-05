@@ -5,7 +5,7 @@
 4. 서로 이해할만한 사유라면 못해도 OK
 
 ### 📑 Template
-##### filename: 이름/년월/주차.md
+##### filename: 이름/년월/날짜.md
 ```html
 1)
   1. [문제 이름]
